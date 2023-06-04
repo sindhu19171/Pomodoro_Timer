@@ -1,0 +1,41 @@
+body{
+  font-size: 25px;
+  background-color:  #424242;
+  color: #FEFEFE;
+  margin-top:  75px;
+  margin-bottom: auto;
+}
+
+.arrows{
+  background: none;
+  border: none;
+  font-size:  25px;
+ }
+
+.work{
+  color: #06CCD6;
+}
+
+.rest {
+  color:  #FFD901;
+}
+
+.controls {
+  color: #FEFEFE;
+}
+
+#workSetter {
+  text-align: center;
+  width: 50%;
+  float: left;
+}
+
+#restSetter {
+  text-align: center;
+  width: 50%;
+  float: right;
+}
+
+#countdown {
+  text-align: center;
+}
